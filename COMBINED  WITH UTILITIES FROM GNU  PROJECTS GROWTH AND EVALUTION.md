@@ -1,0 +1,6 @@
+- Early  1990s  Linux rapidly  evolved through Collabration  over the internet 
+- 1994 Linux 1.0 was released  with 176k lines of code 
+- late  1990s Commerical  Intereset in Linux grow 
+ - Rad Hat , SUSF 
+ - 2000s Linux Siginificant adoption  in server markets 
+ - in 2007 ,   google  released the Andriod OS  foe mobile  devices .

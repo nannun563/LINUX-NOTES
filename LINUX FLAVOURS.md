@@ -1,0 +1,5 @@
+- UBUNTU  ,      FEDORA  ,      DEBIAN    ,  RED HAT      , CENTOS ,
+
+- ARCH MINT   , SALCK WAVE,   OPEN SUSE   , APLINE LINUX ,
+
+KALI LINUX ,
